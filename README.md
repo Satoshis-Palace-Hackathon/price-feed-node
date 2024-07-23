@@ -1,40 +1,16 @@
-# Satoshi's Palace X Reclaim Price Feed
-Welcome! 
+<div style="text-align: center;">
+  ![provably fair gaming](./docs/images/HeadLiner.png)
 
-This repository serves as an oracle node for proving coinmarketcap data on blockchains like [Secret Network](https://scrt.network/). 
+  # Satoshi's Palace X Reclaim Price Feed
 
-Made possible by [Reclaim Protocol's](https://www.reclaimprotocol.org/#my-16) Zero Knowledge Proof Tech we are 
-## Developing
+  [Play Now!](https://satoshispalace.casino/secret/bullorbear)
 
-### Prerequisites
+  <img src="./docs/images/bvb.png" alt="New Image">
 
-You need [Node.js](https://nodejs.org/) installed on your machine (latest LTS version recommended).
+  ## Project Info
+  Welcome! 
 
-### Installation
-```bash
-npm install
-```
+  This repository serves as an oracle node for proving coinmarketcap data on blockchains like [Secret Network](https://scrt.network/). 
 
-### Environment Setup
-Private Key:
-```bash
-cp .env.example .env
-```
-
-[**Set Your Private Key (Testing only link not secure)**](https://vanity-eth.tk/)
-
-[**Set Coin Gecko API key**](https://www.coingecko.com/en/developers/dashboard?redirect=%2Freference%2Fcoins-id-market-chart)
-
-### Run
-```
-npm start
-```
-
-### Docker build
-
-```
-npm install
-docker login
-docker build -t satoshispalace/price-oracle:latest .
-docker push satoshispalace/price-oracle:latest
-```
+  Made possible by [Reclaim Protocol's](https://www.reclaimprotocol.org/#my-16) Zero Knowledge Proof Tech.
+</div>
