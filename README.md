@@ -16,7 +16,6 @@
 
   <p>Made possible by <a href="https://www.reclaimprotocol.org/#my-16">Reclaim Protocol's</a> Zero Knowledge Proof Tech.</p>
 
-  <h2>For Development Setup See</h2>
-  <a href="./docs/DeveloperSetup.md">Development Setup</a>
+  <h2><a href="./docs/DeveloperSetup.md">Development Setup Guide</a></h2>
 
 </div>
