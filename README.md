@@ -1,5 +1,9 @@
-# Satoshi's Palace Price Feed
+# Satoshi's Palace X Reclaim Price Feed
+Welcome! 
 
+This repository serves as an oracle node for proving coinmarketcap data on blockchains like [Secret Network](https://scrt.network/). 
+
+Made possible by [Reclaim Protocol's](https://www.reclaimprotocol.org/#my-16) Zero Knowledge Proof Tech we are 
 ## Developing
 
 ### Prerequisites
