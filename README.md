@@ -3,7 +3,7 @@
 
   <h1>Satoshi's Palace X Reclaim Price Feed</h1>
 
-  <a href="https://satoshispalace.casino/secret/bullorbear"><p style="text-align: center;">Play Now!</p></a>
+  <p style="text-align: center;"><a href="https://satoshispalace.casino/secret/bullorbear">Play Now!</a></p>
 
   <br><br>
 
