@@ -1,16 +1,18 @@
 <div style="text-align: center;">
-  ![provably fair gaming](./docs/images/HeadLiner.png)
+  <img src="./docs/images/HeadLiner.png" alt="provably fair gaming">
 
-  # Satoshi's Palace X Reclaim Price Feed
+  <h1>Satoshi's Palace X Reclaim Price Feed</h1>
 
-  [Play Now!](https://satoshispalace.casino/secret/bullorbear)
+  <a href="https://satoshispalace.casino/secret/bullorbear">Play Now!</a>
+
+  <br><br>
 
   <img src="./docs/images/bvb.png" alt="New Image">
 
-  ## Project Info
-  Welcome! 
+  <h2>Project Info</h2>
+  <p>Welcome!</p>
 
-  This repository serves as an oracle node for proving coinmarketcap data on blockchains like [Secret Network](https://scrt.network/). 
+  <p>This repository serves as an oracle node for proving coinmarketcap data on blockchains like <a href="https://scrt.network/">Secret Network</a>.</p>
 
-  Made possible by [Reclaim Protocol's](https://www.reclaimprotocol.org/#my-16) Zero Knowledge Proof Tech.
+  <p>Made possible by <a href="https://www.reclaimprotocol.org/#my-16">Reclaim Protocol's</a> Zero Knowledge Proof Tech.</p>
 </div>
